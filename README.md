@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/king-m-a-kh/RubiNew/master/README.md
+{"اطلاعات":{"ورژن":"1.0","دانلود":"http://RubiNew.ss0.ir/RubiNew.apk","تبلیغ":"0"},"add":["http://RubiNew.ss0.ir/icon.png"]," ویدیو":[{"عکس":"","نام":"یدیو ۱","لینک":""}],"سرور":{"شروع":"","پایان":""},"اعلان":[{"عکس":"","نام":"امتحان اعلان","متن":"سلام"}]}
