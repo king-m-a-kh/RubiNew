@@ -1,1 +1,1 @@
-# RubiNew
+https://raw.githubusercontent.com/king-m-a-kh/RubiNew/master/README.md
